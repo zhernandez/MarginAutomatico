@@ -1,0 +1,17 @@
+div{
+	border:15px solid #ffff66;
+	padding: 10px 10px;
+	margin:0px 1110px 0px 0px;
+	width: 200px;
+	height: 180px;
+}
+.centrado{
+       text-align: center;
+    } 
+.centro{
+	margin: 0 auto;
+	padding: 10px 20px
+}  
+p{
+	font-size: 12px
+}     
